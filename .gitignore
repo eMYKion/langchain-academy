@@ -1,4 +1,6 @@
 lc-academy-env/
+module-6/deployment/secrets/
+module-6/deployment/docker-compose.yml.backup
 
 .ipynb_checkpoints/
 
